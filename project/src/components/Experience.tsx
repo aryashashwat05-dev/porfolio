@@ -12,7 +12,7 @@ export default function Experience() {
       details: [
         'Specialization: Artificial Intelligence & Data Science',
         'CGPA: 7.5/10',
-        'Department Coordinator (CSA) - October 2024'
+        'Department Event Coordinator (CSA) - October 2024'
       ],
       color: 'emerald'
     },
@@ -33,8 +33,8 @@ export default function Experience() {
     {
       type: 'education',
       icon: GraduationCap,
-      title: 'Diploma in Computer Science',
-      organization: 'Management Technosys',
+      title: 'Diploma in Computer Science Management',
+      organization: 'Technosys',
       location: 'Jaipur, India',
       period: 'Apr 2016 - Jan 2018',
       details: [
