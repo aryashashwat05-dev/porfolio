@@ -1,0 +1,10 @@
+{
+  "name": "project-bolt-sb1-ajfam1iz",
+  "private": true,
+  "workspaces": ["project"],
+  "scripts": {
+    "dev": "npm run dev --workspace=project",
+    "build": "npm run build --workspace=project",
+    "preview": "npm run preview --workspace=project"
+  }
+}
