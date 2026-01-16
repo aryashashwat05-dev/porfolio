@@ -15,8 +15,8 @@ export default function Projects() {
       ],
       icon: Lock,
       color: 'from-emerald-500 to-green-500',
-      liveUrl: 'https://agoravote.netlify.app',
-      githubUrl: 'https://github.com/aryashashwat05-dev/AgroVote',
+      liveUrl: 'https://agoravt.netlify.app/login',
+      githubUrl: 'https://github.com/aryashashwat05-dev/AgoraVote',
       gradient: 'from-emerald-500/20 to-green-500/20'
     },
     {
